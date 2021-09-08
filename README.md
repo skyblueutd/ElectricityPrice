@@ -1,2 +1,2 @@
 # ElectricityPrice
- FirstTry
+ It is a Kaggle competition.
